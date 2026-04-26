@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrianoaguiarpt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AdrianoAguiarDev?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/adrianoaguiarpt?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Status-Estudando%20Full%20Stack-blue" alt="status" />
 </p>
 
@@ -71,31 +71,29 @@ Minha filosofia de estudo é clara: **entender o projeto do começo ao fim** –
 
 ---
 
-### 📊 Minha Jornada de Estudos (Checklist Visual)
+### 📊 Minha Jornada de Estudos
 
-| Camada | Tecnologias | Status |
-|--------|-------------|--------|
-| **Front-end Base** | HTML, CSS, FlexBox, Grid | ✅ Concluído |
-| **Front-end Dinâmico** | JavaScript, Tailwind | ✅ Concluído |
-| **Front-end Moderno** | React, Next.js | 🔄 Estudando |
-| **Back-end Base** | Node.js, TypeScript | ✅ Concluído |
-| **Back-end ORM** | Prisma | ✅ Concluído |
-| **Back-end Expansão** | Python, Java | 🔄 Estudando |
-| **Banco de Dados** | MySQL, MongoDB | ✅ Concluído |
-| **DevOps** | Docker, GIT | ✅ Concluído |
-| **Integração** | API, Autenticação | ✅ Concluído |
+| Tecnologia | Status | O que já fiz |
+|------------|--------|--------------|
+| HTML, CSS, FlexBox, Grid | ✅ Concluído | Site de atacados e tattoo |
+| Git | ✅ Concluído | Repositórios no GitHub |
+| JavaScript | 🔄 Em andamento | Estudando atualmente |
+| MySQL | 🔄 Em andamento | Estudando atualmente |
+| Node.js / Back-end | 🔄 Em andamento | Próximo no curso |
+| React / Front-end moderno | 📅 Próximo | Após JavaScript |
+| Docker / DevOps | 📅 Próximo | Após back-end |
 
----
+> 💡 **Meu momento atual:** Já sei construir sites estáticos com HTML/CSS e versionar com Git. Agora estou mergulhando em JavaScript e MySQL para dar vida às aplicações!
 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdrianoAguiarDev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoAguiarDev&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrianoaguiarpt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoaguiarpt&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoAguiarDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoaguiarpt&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
