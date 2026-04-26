@@ -1,3 +1,42 @@
+<h1 align="center">🚀 Adriano Aguiar Dev</h1>
+<h3 align="center">Full Stack Developer em formação | Foco em Back-end | Porto, Portugal 🇵🇹</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adrianoaguiarpt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/adrianoaguiarpt?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Estudando%20JS%20%26%20MySQL-blue" alt="status" />
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Tudo bem Devs! Sou **Adriano Aguiar**, desenvolvedor full stack em formação, atualmente vivendo no **Porto, Portugal** 🇵🇹
+
+Minha filosofia é clara: **dominar o fluxo de ponta a ponta.** Mais do que conectar tecnologias, busco entender como os dados fluem da interface para o banco de dados. Estou construindo uma base sólida em todas as camadas para ter a autonomia de transformar ideias em aplicações completas, robustas e bem estruturadas.
+
+🎯 **Foco principal:** Back-end, bancos de dados e arquitetura de APIs
+
+🌱 **O que estou estudando atualmente:**
+- **JavaScript** (lógica, DOM, eventos)
+- **MySQL** (consultas, modelagem de dados)
+- Node.js (próximo passo)
+
+🤝 **Aberto a:** Colaborar em projetos open source, trocar experiências e receber feedbacks
+
+---
+
+### 🚀 Meus Projetos no GitHub
+
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| Site Atacados | Site institucional para loja de atacados | HTML, CSS, Flexbox | [Ver código](https://github.com/adrianoaguiarpt/site-atacados) |
+| Site Tattoo | Portfólio para estúdio de tatuagem | HTML, CSS, Grid | [Ver código](https://github.com/adrianoaguiarpt/site-tattoo) |
+
+> 💡 **Em breve:** Projetos com JavaScript e MySQL!
+
+---
+
 ### 🛠️ Minha Stack Tecnológica
 
 #### ✅ Já domínio (concluído)
