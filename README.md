@@ -1,45 +1,54 @@
-<h1 align="center">🚀 Adriano Aguiar Dev</h1>
-<h3 align="center">Full Stack Developer em formação | Foco em Back-end | Porto, Portugal 🇵🇹</h3>
+<h1 align="center">Adriano Aguiar Dev</h1>
+<h3 align="center">Estudante de Engenharia Informática | Full Stack Developer em Formação (Foco em Back-end) | Porto, Portugal 🎓</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adrianoaguiarpt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/adrianoaguiarpt?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Estudando%20JS%20%26%20MySQL-blue" alt="status" />
+  <img src="https://img.shields.io/badge/Status-Graduação%20%2B%20Full%20Stack-blue" alt="status" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🚀 Sobre mim
 
-Tudo bem Devs! Sou **Adriano Aguiar**, desenvolvedor full stack em formação, atualmente vivendo no **Porto, Portugal** 🇵🇹
+Tudo bem, Devs! Sou **Adriano Aguiar**, vivendo no **Porto, Portugal**. 
 
-Minha filosofia é clara: **dominar o fluxo de ponta a ponta.** Mais do que conectar tecnologias, busco entender como os dados fluem da interface para o banco de dados. Estou construindo uma base sólida em todas as camadas para ter a autonomia de transformar ideias em aplicações completas, robustas e bem estruturadas.
+Após um período focado no estudo para os exames de acesso, **fui aprovado e ingressarei na Licenciatura em Engenharia Informática na Universidade Aberta no próximo semestre!** Com essa etapa conquistada, estou retomando com foco total a minha formação prática em Desenvolvimento Full Stack e construindo uma trilha complementar em Cibersegurança e Computação em Nuvem.
 
-🎯 **Foco principal:** Back-end, bancos de dados e arquitetura de APIs
+Minha filosofia de trabalho é **dominar o fluxo de software de ponta a ponta**. Quero entender exatamente como os dados transitam desde a interface do usuário até o banco de dados e a arquitetura de servidores. Busco construir código limpo, eficiente, escalável e seguro.
 
-🌱 **O que estou estudando atualmente:**
-- **JavaScript** (lógica, DOM, eventos)
-- **MySQL** (consultas, modelagem de dados)
-- Node.js (próximo passo)
-
-🤝 **Aberto a:** Colaborar em projetos open source, trocar experiências e receber feedbacks
+🎓 **Engenharia:** Licenciatura em Engenharia Informática (Universidade Aberta - Em Breve)  
+🎯 **Foco principal:** Back-end Engineering, Bancos de Dados, APIs RESTful e Cibersegurança Defensiva  
+💡 **Diferencial:** Aprendizado contínuo, visão end-to-end e foco em criar aplicações reais e seguras  
 
 ---
 
-### 🚀 Meus Projetos no GitHub
+### 📚 Minha Jornada Atual de Estudos
+
+- 🎓 **Educação Acadêmica:** Preparação para o início do semestre na Licenciatura em Engenharia Informática (*Universidade Aberta*).
+- 💻 **Desenvolvimento Full Stack (Udemy):** Lógica avançada com JavaScript, TypeScript, Node.js, React, Next.js, MySQL, MongoDB, Prisma ORM e Docker.
+- 🛡️ **Especializações Complementares (Trilha Profissional):**
+  - **GitHub Foundations** (*Microsoft Learn*) – Controle de versão e colaboração avançada.
+  - **Fundamentos de Engenharia & Cloud** (*IBM SkillsBuild*).
+  - **Cibersegurança Defensiva** (*Cisco Networking Academy* & *PortSwigger Web Security Academy*).
+  - **Produtividade & IA** (*Google AI Essentials*).
+
+---
+
+### 💻 Meus Projetos no GitHub
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| Site Atacados | Site institucional para loja de atacados | HTML, CSS, Flexbox | [Ver código](https://github.com/adrianoaguiarpt/site-atacados) |
-| Site Tattoo | Portfólio para estúdio de tatuagem | HTML, CSS, Grid | [Ver código](https://github.com/adrianoaguiarpt/site-tattoo) |
+| **Site Atacados** | Site institucional responsivo para loja de atacado | HTML5, CSS3, Flexbox | [Ver código](https://github.com/adrianoaguiarpt/site-atacados) |
+| **Site Tattoo** | Portfólio responsivo para estúdio de tatuagem | HTML5, CSS3, CSS Grid | [Ver código](https://github.com/adrianoaguiarpt/site-tattoo) |
 
-> 💡 **Em breve:** Projetos com JavaScript e MySQL!
+> 💡 **Próximos Projetos:** Aplicações Full Stack completas integrando APIs REST em Node.js/TypeScript, bancos de dados relacioanais (MySQL) e autenticação segura!
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### 🛠️ Minha Stack Tecnológica & Ecossistema
 
-#### ✅ Já domínio (concluído)
+#### ✅ Fundamentos Concluídos
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,72 +57,82 @@ Minha filosofia é clara: **dominar o fluxo de ponta a ponta.** Mais do que cone
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### 🔄 Estudando atualmente (em andamento)
+#### 🔄 Em Andamento (Web Development & Datastores)
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 📅 Próximos estudos (planejado)
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### 📅 Próximas Tecnologias & Frameworks
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Minha Jornada de Estudos
+### 📊 Cronograma de Aprendizado Integrado
 
-| Tecnologia | Status | O que já fiz / estou fazendo |
-|------------|--------|------------------------------|
-| **HTML, CSS, FlexBox, Grid** | ✅ Concluído | Sites de atacados e tattoo (repositórios no GitHub) |
-| **Git** | ✅ Concluído | Versionamento dos meus projetos |
-| **JavaScript** | 🔄 Em andamento | Estudando lógica, DOM, eventos |
-| **MySQL** | 🔄 Em andamento | Estudando consultas e modelagem |
-| **Node.js + TypeScript** | 📅 Próximo | Após concluir JavaScript |
-| **React + Tailwind + Next** | 📅 Próximo | Após Node.js |
-| **MongoDB + Prisma** | 📅 Próximo | Banco de dados NoSQL |
-| **Docker + APIs** | 📅 Próximo | Containerização e integração |
-
-> 💡 **Meu momento atual:** Já construo sites estáticos completos com HTML/CSS e uso Git para versionamento. Agora estou focado em **JavaScript e MySQL** para dominar a lógica de programação e banco de dados. O próximo passo será back-end com Node.js!
+| Trilha / Tecnologia | Origem / Plataforma | Status | Foco Principal |
+|---------------------|---------------------|--------|----------------|
+| **HTML5, CSS3, Git** | Udemy / Projetos | ✅ Concluído | Estrutura, estilização responsiva e versionamento |
+| **Licenciatura Engenharia Informática** | Universidade Aberta | 🎓 Em Breve | Algoritmos, arquitetura de sistemas e fundamentos |
+| **JavaScript & MySQL** | Udemy | 🔄 Em Andamento | Lógica de programação, manipulacao de DOM, modelagem e queries |
+| **GitHub Foundations** | Microsoft Learn | 🔄 Em Andamento | Fluxos avançados de Git e repositórios profissionais |
+| **Node.js, Express & TypeScript** | Udemy | 📅 Próximo | Construção de APIs RESTful e arquitetura backend |
+| **Fundamentos de Cloud & Software** | IBM SkillsBuild | 📅 Próximo | Ciclo de vida de software (SDLC) e nuvem |
+| **Cibersegurança Defensiva** | Cisco / PortSwigger | 📅 Próximo | Desenvolvimento seguro (OWASP Top 10) e proteção de dados |
+| **React, Tailwind & Next.js** | Udemy | 📅 Próximo | Interfaces dinâmicas e Server-Side Rendering (SSR) |
+| **MongoDB, Prisma & Docker** | Udemy | 📅 Próximo | Bancos NoSQL, ORM e containerização de aplicações |
 
 ---
 
-### 🗺️ Meu Mapa de Aprendizado (visual)
+### 🗺️ Mapa de Visão Geral da Formação (Mermaid)
 
 ```mermaid
-graph LR
-    subgraph "✅ Concluído"
-        A[HTML/CSS] --> B[FlexBox/Grid]
-        B --> C[Git]
+graph TD
+    subgraph "🎓 Base Acadêmica"
+        UAb[Universidade Aberta - Engenharia Informática]
     end
-    
-    subgraph "🔄 Em andamento"
-        D[JavaScript] --> E[MySQL]
+
+    subgraph "✅ Fundamentos Práticos"
+        A[HTML5 / CSS3 / Grid / Flexbox] --> B[Git & GitHub]
     end
-    
-    subgraph "📅 Próximos passos"
-        F[Node.js + TypeScript] --> G[React + Tailwind]
-        G --> H[Next.js]
-        H --> I[MongoDB + Prisma]
-        I --> J[Docker + APIs]
+
+    subgraph "🔄 Momento Atual"
+        C[JavaScript ES6+] --> D[MySQL & Modelagem]
+        B --> E[GitHub Foundations]
     end
-    
-    C --> D
+
+    subgraph "🚀 Trilha Backend & Segurança"
+        F[Node.js + TypeScript + Express] --> G[APIs RESTful & Prisma ORM]
+        D --> F
+        H[Cisco / PortSwigger Cybersecurity] --> I[Desenvolvimento Defensivo]
+    end
+
+    subgraph "💻 Trilha Full Stack & Cloud"
+        J[React + Tailwind CSS + Next.js] --> K[Docker & Cloud IBM]
+        G --> J
+        K --> L[Projetos Full Stack Produção]
+    end
+
+    UAb -. Reforço Teórico .-> F
     E --> F
-    
+    I -. Código Seguro .-> L
+
+    style UAb fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#fff
     style A fill:#E34F26,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#1572B6,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#F05032,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#F7DF1E,stroke:#333,stroke-width:2px,color:#000
-    style E fill:#4479A1,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#F05032,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#F7DF1E,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#4479A1,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#007ACC,stroke:#333,stroke-width:2px,color:#fff
     style F fill:#339933,stroke:#333,stroke-width:2px,color:#fff
-    style G fill:#61DAFB,stroke:#333,stroke-width:2px,color:#000
-    style J fill:#2496ED,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#1ba0d7,stroke:#333,stroke-width:2px,color:#fff
+    style L fill:#10b981,stroke:#333,stroke-width:2px,color:#fff
