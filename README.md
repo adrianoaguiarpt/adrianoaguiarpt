@@ -27,12 +27,12 @@ Construo sites e aplicações web para pequenos negócios — da interface ao ba
 
 | Projeto | O que é | Stack | Links |
 |---|---|---|---|
-| **Loja de Acessórios** | E-commerce com catálogo, carrinho, checkout, área de cliente e **painel de administração** | Next.js 14 · TypeScript · Supabase (Auth + PostgreSQL) · Tailwind | [Demo](https://loja-acessorios.vercel.app) · [Código](https://github.com/adrianoaguiarpt/homework) |
+| **Loja de Acessórios** | E-commerce com catálogo, carrinho, checkout, área de cliente e **painel de administração** | Next.js 14 · TypeScript · Supabase (Auth + PostgreSQL) · Tailwind | [Demo](https://loja-acessorios.vercel.app) · [Código](https://github.com/adrianoaguiarpt/loja-acessorios) |
 | **Terapeuta Andreia Alves** | Site profissional de massagem e acupuntura (substituiu Webnode), com conteúdo gerado a partir de um único ficheiro de dados | Node.js · Express · build script próprio · HTML/CSS/JS | [Demo](https://terapeuta-andreia-alves.vercel.app) · [Código](https://github.com/adrianoaguiarpt/terapeuta-andreia-alves) |
 | **Studio Denise Vieira** | Landing page de estética (cílios e unhas) com marcação direta por WhatsApp | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/studio-denisevieira/) · [Código](https://github.com/adrianoaguiarpt/studio-denisevieira) |
 | **Studio James Tattoo** | Site multipágina para estúdio de tatuagem: portfólio, produtos e contactos | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/studio-james-tattoo/) · [Código](https://github.com/adrianoaguiarpt/studio-james-tattoo) |
 | **SantosNovaArts** | Página de conversão para empresa de estofados e móveis | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/santos_site/) · [Código](https://github.com/adrianoaguiarpt/santos_site) |
-| **Portfólio** | O meu site pessoal com projetos e percurso | HTML · CSS · JavaScript | [adrianoaguiardev.com](https://adrianoaguiardev.com) · [Código](https://github.com/adrianoaguiarpt/portifolio-adriano) |
+| **Portfólio** | O meu site pessoal com projetos e percurso | HTML · CSS · JavaScript | [adrianoaguiardev.com](https://adrianoaguiardev.com) · [Código](https://github.com/adrianoaguiarpt/portfolio-adriano) |
 
 ---
 
