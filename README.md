@@ -1,138 +1,78 @@
-<h1 align="center">Adriano Aguiar Dev</h1>
-<h3 align="center">Estudante de Engenharia Informática | Full Stack Developer em Formação (Foco em Back-end) | Porto, Portugal 🎓</h3>
+<h1 align="center">Adriano Aguiar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrianoaguiarpt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/adrianoaguiarpt?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Graduação%20%2B%20Full%20Stack-blue" alt="status" />
+  <b>Desenvolvedor Web Full Stack · Estudante de Engenharia Informática</b><br/>
+  Porto, Portugal 🇵🇹
+</p>
+
+<p align="center">
+  <a href="https://adrianoaguiardev.com"><img src="https://img.shields.io/badge/Portfólio-adrianoaguiardev.com-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/adrianoaguiarpt"><img src="https://img.shields.io/badge/LinkedIn-adrianoaguiarpt-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-Tudo bem, Devs! Sou **Adriano Aguiar**, vivendo no **Porto, Portugal**. 
+Construo sites e aplicações web para pequenos negócios — da interface ao back-end, até ao deploy. Cada projeto abaixo está **publicado e em uso por um cliente real**.
 
-Após um período focado no estudo para os exames de acesso, **fui aprovado e ingressarei na Licenciatura em Engenharia Informática na Universidade Aberta no próximo semestre!** Com essa etapa conquistada, estou retomando com foco total a minha formação prática em Desenvolvimento Full Stack e construindo uma trilha complementar em Cibersegurança e Computação em Nuvem.
-
-Minha filosofia de trabalho é **dominar o fluxo de software de ponta a ponta**. Quero entender exatamente como os dados transitam desde a interface do usuário até o banco de dados e a arquitetura de servidores. Busco construir código limpo, eficiente, escalável e seguro.
-
-🎓 **Engenharia:** Licenciatura em Engenharia Informática (Universidade Aberta - Em Breve)  
-🎯 **Foco principal:** Back-end Engineering, Bancos de Dados, APIs RESTful e Cibersegurança Defensiva  
-💡 **Diferencial:** Aprendizado contínuo, visão end-to-end e foco em criar aplicações reais e seguras  
+- 🎓 **Licenciatura em Engenharia Informática** — Universidade Aberta (2026 – 2029)
+- 💻 **Foco:** JavaScript/TypeScript, Node.js, Next.js e bases de dados (SQL e Supabase/PostgreSQL)
+- 🔁 **Percurso:** vim do Direito e de 8 anos a gerir loja e equipas de atendimento — isso traduz-se em perceber o negócio do cliente antes de escrever código
+- 🌱 **A aprender agora:** arquitetura de sistemas, algoritmos e estruturas de dados, APIs REST com Node/TypeScript
 
 ---
 
-### 📚 Minha Jornada Atual de Estudos
+### Projetos em destaque
 
-- 🎓 **Educação Acadêmica:** Preparação para o início do semestre na Licenciatura em Engenharia Informática (*Universidade Aberta*).
-- 💻 **Desenvolvimento Full Stack (Udemy):** Lógica avançada com JavaScript, TypeScript, Node.js, React, Next.js, MySQL, MongoDB, Prisma ORM e Docker.
-- 🛡️ **Especializações Complementares (Trilha Profissional):**
-  - **GitHub Foundations** (*Microsoft Learn*) – Controle de versão e colaboração avançada.
-  - **Fundamentos de Engenharia & Cloud** (*IBM SkillsBuild*).
-  - **Cibersegurança Defensiva** (*Cisco Networking Academy* & *PortSwigger Web Security Academy*).
-  - **Produtividade & IA** (*Google AI Essentials*).
-
----
-
-### 💻 Meus Projetos no GitHub
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| **Site Atacados** | Site institucional responsivo para loja de atacado | HTML5, CSS3, Flexbox | [Ver código](https://github.com/adrianoaguiarpt/site-atacados) |
-| **Site Tattoo** | Portfólio responsivo para estúdio de tatuagem | HTML5, CSS3, CSS Grid | [Ver código](https://github.com/adrianoaguiarpt/site-tattoo) |
-
-> 💡 **Próximos Projetos:** Aplicações Full Stack completas integrando APIs REST em Node.js/TypeScript, bancos de dados relacioanais (MySQL) e autenticação segura!
+| Projeto | O que é | Stack | Links |
+|---|---|---|---|
+| **Loja de Acessórios** | E-commerce com catálogo, carrinho, checkout, área de cliente e **painel de administração** | Next.js 14 · TypeScript · Supabase (Auth + PostgreSQL) · Tailwind | [Demo](https://loja-acessorios.vercel.app) · [Código](https://github.com/adrianoaguiarpt/homework) |
+| **Terapeuta Andreia Alves** | Site profissional de massagem e acupuntura (substituiu Webnode), com conteúdo gerado a partir de um único ficheiro de dados | Node.js · Express · build script próprio · HTML/CSS/JS | [Demo](https://terapeuta-andreia-alves.vercel.app) · [Código](https://github.com/adrianoaguiarpt/terapeuta-andreia-alves) |
+| **Studio Denise Vieira** | Landing page de estética (cílios e unhas) com marcação direta por WhatsApp | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/studio-denisevieira/) · [Código](https://github.com/adrianoaguiarpt/studio-denisevieira) |
+| **Studio James Tattoo** | Site multipágina para estúdio de tatuagem: portfólio, produtos e contactos | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/studio-james-tattoo/) · [Código](https://github.com/adrianoaguiarpt/studio-james-tattoo) |
+| **SantosNovaArts** | Página de conversão para empresa de estofados e móveis | HTML · CSS · JavaScript | [Demo](https://adrianoaguiarpt.github.io/santos_site/) · [Código](https://github.com/adrianoaguiarpt/santos_site) |
+| **Portfólio** | O meu site pessoal com projetos e percurso | HTML · CSS · JavaScript | [adrianoaguiardev.com](https://adrianoaguiardev.com) · [Código](https://github.com/adrianoaguiarpt/portifolio-adriano) |
 
 ---
 
-### 🛠️ Minha Stack Tecnológica & Ecossistema
+### Tecnologias
 
-#### ✅ Fundamentos Concluídos
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flexbox-1A73E8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grid-FF4785?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+**Uso em projetos**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**A estudar**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+### Formação
+
+- **Licenciatura em Engenharia Informática** — Universidade Aberta *(em curso, 2026 – 2029)*
+- **Full Stack Web com Node, JavaScript e TypeScript** — Udemy *(em curso)*
+- **Introdução ao Git** — Microsoft Learn *(certificado)*
+
+---
+
+<p align="center">
+  Aberto a oportunidades de estágio / júnior e a projetos freelance.<br/>
+  📫 Fale comigo pelo <a href="https://www.linkedin.com/in/adrianoaguiarpt">LinkedIn</a> ou pelo <a href="https://adrianoaguiardev.com">portfólio</a>.
 </p>
-
-#### 🔄 Em Andamento (Web Development & Datastores)
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-#### 📅 Próximas Tecnologias & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-### 📊 Cronograma de Aprendizado Integrado
-
-| Trilha / Tecnologia | Origem / Plataforma | Status | Foco Principal |
-|---------------------|---------------------|--------|----------------|
-| **HTML5, CSS3, Git** | Udemy / Projetos | ✅ Concluído | Estrutura, estilização responsiva e versionamento |
-| **Licenciatura Engenharia Informática** | Universidade Aberta | 🎓 Em Breve | Algoritmos, arquitetura de sistemas e fundamentos |
-| **JavaScript & MySQL** | Udemy | 🔄 Em Andamento | Lógica de programação, manipulacao de DOM, modelagem e queries |
-| **GitHub Foundations** | Microsoft Learn | 🔄 Em Andamento | Fluxos avançados de Git e repositórios profissionais |
-| **Node.js, Express & TypeScript** | Udemy | 📅 Próximo | Construção de APIs RESTful e arquitetura backend |
-| **Fundamentos de Cloud & Software** | IBM SkillsBuild | 📅 Próximo | Ciclo de vida de software (SDLC) e nuvem |
-| **Cibersegurança Defensiva** | Cisco / PortSwigger | 📅 Próximo | Desenvolvimento seguro (OWASP Top 10) e proteção de dados |
-| **React, Tailwind & Next.js** | Udemy | 📅 Próximo | Interfaces dinâmicas e Server-Side Rendering (SSR) |
-| **MongoDB, Prisma & Docker** | Udemy | 📅 Próximo | Bancos NoSQL, ORM e containerização de aplicações |
-
----
-
-### 🗺️ Mapa de Visão Geral da Formação (Mermaid)
-
-```mermaid
-graph TD
-    subgraph "🎓 Base Acadêmica"
-        UAb[Universidade Aberta - Engenharia Informática]
-    end
-
-    subgraph "✅ Fundamentos Práticos"
-        A[HTML5 / CSS3 / Grid / Flexbox] --> B[Git & GitHub]
-    end
-
-    subgraph "🔄 Momento Atual"
-        C[JavaScript ES6+] --> D[MySQL & Modelagem]
-        B --> E[GitHub Foundations]
-    end
-
-    subgraph "🚀 Trilha Backend & Segurança"
-        F[Node.js + TypeScript + Express] --> G[APIs RESTful & Prisma ORM]
-        D --> F
-        H[Cisco / PortSwigger Cybersecurity] --> I[Desenvolvimento Defensivo]
-    end
-
-    subgraph "💻 Trilha Full Stack & Cloud"
-        J[React + Tailwind CSS + Next.js] --> K[Docker & Cloud IBM]
-        G --> J
-        K --> L[Projetos Full Stack Produção]
-    end
-
-    UAb -. Reforço Teórico .-> F
-    E --> F
-    I -. Código Seguro .-> L
-
-    style UAb fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style A fill:#E34F26,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#F05032,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#F7DF1E,stroke:#333,stroke-width:2px,color:#000
-    style D fill:#4479A1,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#007ACC,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#339933,stroke:#333,stroke-width:2px,color:#fff
-    style H fill:#1ba0d7,stroke:#333,stroke-width:2px,color:#fff
-    style L fill:#10b981,stroke:#333,stroke-width:2px,color:#fff
